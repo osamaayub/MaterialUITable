@@ -1,0 +1,39 @@
+{
+    "rows": [{
+            "id": 1,
+            "Name": "John Doe Smith",
+            "sex": "Male",
+            "Place_DateofBirth": "Lahore,1998-05-21",
+            "Groups": "Biologists,Typography and 2 more"
+        },
+        {
+            "id": 2,
+            "Name": "Peter Erdosi",
+            "sex": "Male",
+            "Place_DateofBirth": "Lahore,1989-03-10",
+            "Groups": "Biologists"
+        },
+        {
+            "id": 3,
+            "Name": "Rebeca Trulli",
+            "sex": "Female",
+            "Place_DateofBirth": "Lahore,1998-11-04",
+            "Groups": "Biologists"
+        },
+        {
+            "id": 4,
+            "Name": "Ted Bundy",
+            "sex": "Male",
+            "Place_DateofBirth": "Lahore,1975-01-28",
+            "Groups": "Web designers,Chemistry Capital"
+        },
+        {
+            "id": 5,
+            "Name": "Rob Thoroton",
+            "sex": "Male",
+            "Place_DateofBirth": "Lahore,1991-01-30",
+            "Groups": "Web designers"
+        }
+
+    ]
+}
